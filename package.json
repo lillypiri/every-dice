@@ -15,7 +15,7 @@
   "homepage": "https://github.com/lillypiri/every-dice",
   "repository": {
       "type": "git",
-      "url": "https://github.com/lillypiri/every-dice.git",
+      "url": "https://github.com/lillypiri/every-dice.git"
   },
   "bugs": {
       "url": "https://github.com/lillypiri/every-dice/issues"
