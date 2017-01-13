@@ -1,0 +1,15 @@
+{
+  "name": "every-dice",
+  "version": "1.0.0",
+  "description": "Roll a virtual dice.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dice",
+    "random"
+  ],
+  "author": "Lilly Piri",
+  "license": "ISC"
+}
